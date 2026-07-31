@@ -58,7 +58,8 @@ This project analyzes workplace injury data across multiple manufacturing plants
 
  ## Dashboard Preview
 
- <img width="1858" height="781" alt="Injury Plant Analysis Dashboard" src="https://github.com/user-attachments/assets/3c33ec55-724a-4aaf-aea5-75547889faf2" />
+<img width="1887" height="801" alt="Injury_Plant_Analysis Dashboard" src="https://github.com/user-attachments/assets/425c7dc4-b36b-43bb-8f16-6f2bacd9ec1e" />
+
 
 
 ##  Skills Demonstrated
